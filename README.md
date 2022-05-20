@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @30lilia-army
+- 👋 Hi, I’m @30lilia-
 - 👀 I’m interested in Web desing
 - 🌱 I’m currently learning computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web desing projects
 - 📫 How to reach me ...
 
 <!---
